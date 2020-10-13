@@ -1,0 +1,37 @@
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\bin\Debug\Labo3.exe.config
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\bin\Debug\Labo3.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\bin\Debug\Labo3.pdb
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.csprojResolveAssemblyReference.cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.Form1.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.Properties.Resources.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.csproj.GenerateResource.Cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo3\Labo3\obj\Debug\Labo3.pdb
+C:\Users\1739188\Downloads\Labo3\Labo3\bin\Debug\Labo3.exe.config
+C:\Users\1739188\Downloads\Labo3\Labo3\bin\Debug\Labo3.exe
+C:\Users\1739188\Downloads\Labo3\Labo3\bin\Debug\Labo3.pdb
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.Form1.resources
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.Properties.Resources.resources
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.csproj.GenerateResource.cache
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.exe
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.pdb
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\bin\Debug\Labo3.exe.config
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\bin\Debug\Labo3.exe
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\bin\Debug\Labo3.pdb
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.csprojAssemblyReference.cache
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.Form1.resources
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.Properties.Resources.resources
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.csproj.GenerateResource.cache
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.csproj.CoreCompileInputs.cache
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.exe
+C:\Users\mlou\Music\Labo3\Labo3\Labo3\obj\Debug\Labo3.pdb
+C:\Users\1739188\Downloads\Labo3\Labo3\obj\Debug\Labo3.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\bin\Debug\Labo3.exe.config
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\bin\Debug\Labo3.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\bin\Debug\Labo3.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.Form1.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.Properties.Resources.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.csproj.GenerateResource.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Pokemon Form\Labo3\Labo3\obj\Debug\Labo3.pdb
